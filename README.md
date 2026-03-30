@@ -22,3 +22,58 @@ apredis
     </div>
 </body>
 </html>
+body {
+    background-color: #0d1117;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.avatar {
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid #58a6ff;
+}
+
+.links {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #c9d1d9;
+    background: #21262d;
+    padding: 10px 40px;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+    transition: 0.3s;
+}
+
+a:hover {
+    background: #30363d;
+    border-color: #8b949e;
+}# 🚀 Meu Primeiro Repositório
+
+Este projeto é um site simples de links pessoais, criado para praticar os fundamentos do GitHub.
+
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- GitHub Pages (Hospedagem)
+
+## 📖 O que aprendi
+- Criar repositórios.
+- Fazer commits diretamente na interface web.
+- Realizar o deploy (publicação) via GitHub Pages.
+
